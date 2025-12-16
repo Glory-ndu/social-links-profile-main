@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+    padding: 40px;
+ }
+.link_form{
+    background-color: rgb(27, 24, 24);
+    width: 325px;
+    height: 525px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px;
+    border-radius: 6px;/*to make the edge of the form round*/
+}
+.image{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 80%;
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: lighter;
+}
+.country{
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: smaller;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(199, 192, 192);
+    font-weight: lighter;
+    font-size: smaller;
+}
+.button{
+    background-color: greenyellow;
+    width:270px;
+    height: 42px;
+    color: black;
+    border-radius: 10px;
+    border: none;
+}
+.button1{
+    background-color: rgb(48, 44, 44);
+    width:270px;
+    height: 42px;
+    color: whitesmoke;
+    border-radius: 10px;
+    border: none;
+}
+.button2{
+    background-color: rgb(48, 44, 44);
+    width:270px;
+    height: 42px;
+    color: whitesmoke;
+    border-radius: 10px;
+    border: none;
+}
